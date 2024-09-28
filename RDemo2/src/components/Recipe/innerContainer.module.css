@@ -1,0 +1,6 @@
+.InnerContainer {
+  background-color: rgb(249, 245, 239);
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+}
